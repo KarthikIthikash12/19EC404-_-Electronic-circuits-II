@@ -38,6 +38,6 @@
 
 Thus, the **WEIN BRIDGE OSCILLATOR** was designed for the given frequency.
 
-- **(i) Theoretical Frequency:**  
-- **(ii) Practical Frequency:**  
+- **(i) Theoretical Frequency: 50HZ**  
+- **(ii) Practical Frequency: 50.1HZ**  
 
