@@ -24,7 +24,7 @@
 <img width="437" height="331" alt="image" src="https://github.com/user-attachments/assets/ac12584c-7c60-4baa-a8e2-a0d1bd24150e" />
 
 # Tabulation
-
+![WhatsApp Image 2025-11-09 at 23 41 55_73e4a5d9](https://github.com/user-attachments/assets/b0b57a75-7f99-4125-a9b7-95916905f6fc)
 
 # Graph
 ## Differentiator
